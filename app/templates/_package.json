@@ -25,6 +25,7 @@
     "grunt-search": "^0.1.7",
     "grunt-include-replace": "^3.2.0",
     "grunt-jsbeautifier": "^0.2.10",
+    "grunt-jscs": "^2.7.0",
     "grunt-cssbeautifier": "^0.1.2",
     "grunt-html-validation": "^0.1.18",<% if (features.useModernizr) { %>
     "grunt-modernizr": "^1.0.1",<% } %><% if (features.useIcomoon) { %>
